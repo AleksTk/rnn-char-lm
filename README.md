@@ -6,7 +6,7 @@ the model learns to reproduce text alike.
 
 ## Usage
 
-For better performance, run code on GPU.
+NB! For better performance, run this code on GPU.
 
 ### Training model
 
