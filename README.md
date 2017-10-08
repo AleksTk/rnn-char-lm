@@ -2,9 +2,11 @@
 
 Tensorflow implementation of a lstm-based character-level language model.
 Given a list of items of interest, such as baby names or place names,
-the model learns to reproduce texts alike.
+the model learns to reproduce text alike.
 
 ## Usage
+
+For better performance, run code on GPU.
 
 ### Training model
 
